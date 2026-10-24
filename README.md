@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33900979/README_EN.md)
 # 1 in 8 Billion — Birthplace Picker
 
 A userscript for [1in8b.life](https://1in8b.life/) that lets you manually choose the country where your character begins life, instead of letting the game select a country based on statistics.
