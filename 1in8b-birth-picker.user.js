@@ -1,5 +1,4 @@
-// @updateURL   https://raw.githubusercontent.com/Raiiito/1in8b-birth-picker/main/1in8b-birth-picker.user.js
-// @downloadURL https://raw.githubusercontent.com/Raiiito/1in8b-birth-picker/main/1in8b-birth-picker.user.js
+
 // ==UserScript==
 // @name         1 trong 8 tỷ — Chọn nơi sinh
 // @namespace    https://1in8b.life/
@@ -8,6 +7,8 @@
 // @match        *://*.1in8b.life/*
 // @run-at       document-idle
 // @grant        none
+// @updateURL   https://raw.githubusercontent.com/Raiiito/1in8b-birth-picker/main/1in8b-birth-picker.user.js
+// @downloadURL https://raw.githubusercontent.com/Raiiito/1in8b-birth-picker/main/1in8b-birth-picker.user.js
 // ==/UserScript==
 
 (() => {
